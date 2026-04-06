@@ -25,10 +25,6 @@ AI가 감정을 분석하고, 감정 요약과 코멘트를 제공하는 웹 서
 ---
 ## 🛠 기술 스택
 
-<a href="https://github.com/msdio/stackticon">
-  <img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1766363369466?alt=media&token=71524347-26c6-4354-99d3-7dfce046bb67" alt="stackticon" />
-</a>
-
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Flask (Python)  
 - **Database**: MariaDB  
